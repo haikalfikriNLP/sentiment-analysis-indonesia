@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## 🧪 Cara Menjalankan
 
-1. Jalankan `A1 Preprocessing Sentiment Analysis.ipynb` untuk membuat dataset.
+1. Jalankan `Preprocessing Sentiment Analysis.ipynb` untuk membuat dataset.
 2. Gunakan hasil `.csv` untuk menjalankan `A1 Perbandingan Model dan Hybrid Model.ipynb`.
 
 ## 👨‍💻 Author
