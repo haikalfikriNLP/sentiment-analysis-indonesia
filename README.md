@@ -11,18 +11,18 @@ sentiment-analysis-indonesia/
 ├── data/
 │   └── labeling_vader.csv
 ├── notebooks/
-│   ├── A1 Preprocessing Sentiment Analysis.ipynb
-│   └── A1 Perbandingan Model dan Hybrid Model.ipynb
+│   ├── Preprocessing Sentiment Analysis.ipynb
+│   └── Perbandingan Model dan Hybrid Model.ipynb
 └── src/
     └── (opsional: utils.py atau modul preprocessing/model)
 ```
 
 ## 📝 Deskripsi Notebook
 
-- **A1 Preprocessing Sentiment Analysis.ipynb**  
+- **Preprocessing Sentiment Analysis.ipynb**  
   Melakukan pembersihan teks, tokenisasi, stopword removal, dan pelabelan otomatis menggunakan VADER untuk membentuk dataset sentimen.
 
-- **A1 Perbandingan Model dan Hybrid Model.ipynb**  
+- **Perbandingan Model dan Hybrid Model.ipynb**  
   Menggunakan dataset hasil preprocessing untuk membandingkan beberapa model:
   - Naive Bayes
   - Support Vector Machine (SVM)
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ## 🧪 Cara Menjalankan
 
 1. Jalankan `Preprocessing Sentiment Analysis.ipynb` untuk membuat dataset.
-2. Gunakan hasil `.csv` untuk menjalankan `A1 Perbandingan Model dan Hybrid Model.ipynb`.
+2. Gunakan hasil `.csv` untuk menjalankan `Perbandingan Model dan Hybrid Model.ipynb`.
 
 ## 👨‍💻 Author
 
