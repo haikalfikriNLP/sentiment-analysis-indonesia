@@ -1,4 +1,5 @@
-# Sentimen Analisis Indonesia – Twitter Dataset
+INDOSENTI-HNN
+# Sentimen Analisis Indonesia – Twitter Dataset.
 
 Repositori ini merupakan bagian dari portofolio analisis sentimen menggunakan data Twitter berbahasa Indonesia. Proyek ini mencakup tahap preprocessing teks, pelabelan sentimen otomatis menggunakan VADER, dan evaluasi beberapa algoritma klasifikasi serta pendekatan hybrid model.
 
