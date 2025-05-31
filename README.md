@@ -23,6 +23,9 @@ sentiment-analysis-indonesia/
 - **Preprocessing Sentiment Analysis.ipynb**  
   Melakukan pembersihan teks, tokenisasi, stopword removal, dan pelabelan otomatis menggunakan VADER untuk membentuk dataset sentimen.
 
+- **Labeling VADER**
+- **SMOTE OVERSAMPLING**
+
 - **Perbandingan Model dan Hybrid Model.ipynb**  
   Menggunakan dataset hasil preprocessing untuk membandingkan beberapa model:
   - Naive Bayes
